@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioc", "Ioc\Ioc.csproj", "{9A35FF51-692D-451A-AB8F-58E4F9AD04CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loggers", "Loggers\Loggers.csproj", "{18DB1C61-8B30-4354-8E91-D2501D774B9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9A35FF51-692D-451A-AB8F-58E4F9AD04CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A35FF51-692D-451A-AB8F-58E4F9AD04CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A35FF51-692D-451A-AB8F-58E4F9AD04CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DB1C61-8B30-4354-8E91-D2501D774B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DB1C61-8B30-4354-8E91-D2501D774B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DB1C61-8B30-4354-8E91-D2501D774B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DB1C61-8B30-4354-8E91-D2501D774B9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
